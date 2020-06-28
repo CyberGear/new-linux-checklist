@@ -7,3 +7,6 @@
   * ubuntu: `gsettings set org.gnome.shell.extensions.dash-to-dock extend-height false`
 * link bin folder: `ln -s /home/data/ect/bin ~/bin`
 * install sublime
+* install git
+* install alacritty
+  * set it as default: `sudo update-alternatives --config x-terminal-emulator`
