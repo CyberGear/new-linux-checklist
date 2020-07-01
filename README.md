@@ -11,4 +11,4 @@
 * install [alacritty](https://github.com/alacritty/alacritty/blob/master/INSTALL.md#debianubuntu)
   * set it as default: `sudo update-alternatives --config x-terminal-emulator`
 * bookmark /home/data/
-* 
+* add lt/en keyboards
