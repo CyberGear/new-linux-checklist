@@ -12,3 +12,4 @@
   * set it as default: `sudo update-alternatives --config x-terminal-emulator`
 * bookmark /home/data/
 * add lt/en keyboards
+* https://extensions.gnome.org/extension/906/sound-output-device-chooser/
