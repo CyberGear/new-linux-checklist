@@ -13,3 +13,4 @@
 * bookmark /home/data/
 * add lt/en keyboards
 * https://extensions.gnome.org/extension/906/sound-output-device-chooser/
+* install vim
