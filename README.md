@@ -15,3 +15,5 @@
 * https://extensions.gnome.org/extension/906/sound-output-device-chooser/
 * install vim
 * wget https://raw.githubusercontent.com/CyberGear/new-linux-checklist/master/replaceNautilusWithNemo.sh | bash
+* isntall deepin-screenshot
+* link print screen shortkut to command: deepin-screenshot
