@@ -17,3 +17,5 @@
 * wget https://raw.githubusercontent.com/CyberGear/new-linux-checklist/master/replaceNautilusWithNemo.sh | bash
 * isntall deepin-screenshot
 * link print screen shortkut to command: deepin-screenshot
+* :$ `gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-left "[]"`
+* :$ `gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-right "[]"`
