@@ -29,3 +29,6 @@
 `gsettings set org.gnome.settings-daemon.plugins.media-keys.custom-keybinding:/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0/ command '/usr/bin/flameshot gui'`
 ### Set binding:
 `gsettings set org.gnome.settings-daemon.plugins.media-keys.custom-keybinding:/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0/ binding 'Print'`
+### Make Bluetouth work
+https://www.py4u.net/discuss/1115026
+https://askubuntu.com/a/1333405
